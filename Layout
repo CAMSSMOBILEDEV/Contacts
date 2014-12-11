@@ -67,4 +67,18 @@
        
           />
       
+            <Button
+          android:id="@+id/register_submit"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:background="@drawable/topbg"
+          android:height="40dip"
+          android:width="70dip"
+          android:layout_marginTop="60dip"
+          android:text="取消"
+          android:textColor="#FFFFFF"
+          android:textSize="22dip"
+       
+          />
+      
 </LinearLayout>
